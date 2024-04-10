@@ -1,4 +1,4 @@
-This is the Java Programming which is a game of casting votes in each categories for a film and in each categories respected movies, gtheir cast and crew has been nominated.
+This is the Java Programming which is a game of casting votes in each categories for a film and in each categories respected movies, gtheir cast and crew has been nominated. 
 This is multi-user programming where more than one user has to cast their vote.
 High Amount Of Vote Will Decide The Respected Winner In Each Categories\
 The Categories Are:-\
